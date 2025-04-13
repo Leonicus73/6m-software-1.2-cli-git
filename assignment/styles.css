@@ -12,11 +12,11 @@ body {
 .bio-container {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: left;
     padding: 20px;
     margin: 20px;
     width: 60%;
-    background-color: #ffffff;
+    background-color: #758eff;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
@@ -46,5 +46,5 @@ h1 {
 
 p, ul {
     margin: 10px 0;
-    color: #555;
+    color: #1317f7;
 }
